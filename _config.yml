@@ -1,7 +1,7 @@
 name: 88 Candy Bars
 favicon: null
-layout_spectrum: 0.8204199050087482
-typography_spectrum: 0.6568178795278072
+layout_spectrum: 0.16095
+typography_spectrum: 0.27791
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#6184bc'
   brandStrength: 0.25
   lightness: 0.7732970423530787
-  saturation: 0.29137554625049233
-  rhythmicContrast: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
